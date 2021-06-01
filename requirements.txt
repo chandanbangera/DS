@@ -246,7 +246,7 @@ typing==3.6.4
 unicodecsv==0.14.1
 Unidecode==0.4.16
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 usaddress==0.5.10
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
