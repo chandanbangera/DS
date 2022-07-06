@@ -76,7 +76,7 @@ h5py==2.7.1
 haversine==0.4.5
 heapdict==1.0.0
 highered==0.2.1
-html5lib==0.9999999
+html5lib==0.999999999
 httplib2==0.11.3
 idna==2.6
 image==1.5.24
